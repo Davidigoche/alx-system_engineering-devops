@@ -1,1 +1,1 @@
-display lines containing pattern
+display 10 newest files
