@@ -1,1 +1,1 @@
-display lines with patterns
+script that takes list of words
